@@ -31,6 +31,7 @@ categories: 杂记
 <del> [blog版本控制](https://formulahendry.github.io/2016/12/04/hexo-ci/)</del>
 该文yml有误，没有升级node，造成hexo无法安装。在没找到下文前，想过通过脚本实现把blog更新且部署网页。
 3. [使用AppVeyor持续集成你的Hexo博客](https://yangshunjie.com/Use-Appveyor-to-continuously-integrate-your-Hexo-blog.html)
+4. [博客提交百度谷歌收录](https://blog.csdn.net/hosea1008/article/details/53384382)
 ---
 {% centerquote %}
 引用方式备忘
@@ -40,5 +41,5 @@ categories: 杂记
 
 ---
 作为一个blog，最重要的还是内容。
-准备陆续整理一下csdn博客里的博文搬运到此。
+准备陆续整理一下[csdn博客](https://blog.csdn.net/solo_ws)里的博文搬运到此。
 希望这篇能成为一个好的开端！
