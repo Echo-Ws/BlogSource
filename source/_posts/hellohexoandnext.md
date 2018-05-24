@@ -30,8 +30,12 @@ categories: 杂记
 2. [高度个性化配置](http://mashirosorata.vicp.io/HEXO-NEXT%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE.html)
 <del> [blog版本控制](https://formulahendry.github.io/2016/12/04/hexo-ci/)</del>
 该文yml有误，没有升级node，造成hexo无法安装。在没找到下文前，想过通过脚本实现把blog更新且部署网页。
-3. [使用AppVeyor持续集成你的Hexo博客](https://yangshunjie.com/Use-Appveyor-to-continuously-integrate-your-Hexo-blog.html)
-4. [博客提交百度谷歌收录](https://blog.csdn.net/hosea1008/article/details/53384382)
+3. [使用AppVeyor持续集成你的Hexo博客](https://yangshunjie.com/Use-Appveyor-to-continuously-integrate-your-Hexo-blog.html)     !
+
+---
+# 待做
+1. [博客提交百度谷歌收录](https://blog.csdn.net/hosea1008/article/details/53384382)
+2. 七牛图床
 ---
 {% centerquote %}
 引用方式备忘
