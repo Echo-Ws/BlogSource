@@ -34,8 +34,8 @@ categories: 杂记
 
 ---
 # 待做
-1. [博客提交百度谷歌收录](https://blog.csdn.net/hosea1008/article/details/53384382)
-2. 七牛图床
+- [ ]  [博客提交百度谷歌收录](https://blog.csdn.net/hosea1008/article/details/53384382)
+- [ ] 七牛图床
 ---
 {% centerquote %}
 引用方式备忘
