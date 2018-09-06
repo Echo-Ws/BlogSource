@@ -13,7 +13,7 @@ categories: 杂记
     - [生活](#)
 - [美国实习条件](#)
 - [美国生活](#)
-- [UTD 准备](#utd)
+- [UTD 调研](#utd)
     - [签证](#)
     - [租房](#)
     - [机票](#)
@@ -74,7 +74,7 @@ Student Health & Wellness Fee: $212 per semester
 fall+spring $76,758
 毕业： 10门课 -- 3+3+4 3个学期
 
-估计 （85+27000 * 3 + 2000 * 18）*6.04=736,489
+估计 （85+27000 * 3 + 2000 * 18）*6.6=736,489
 2年的话 98万
 
 UTD 官网估计每学期3门课，两年学费$25452 生活费 $16034 医疗保险$2335 总计$43824 = ￥264696
@@ -211,10 +211,6 @@ STEM专业领域内的毕业生。除了标准12个月的OPT外，STEM学生将�
 # 准备
 根据[致UTD的新生们](http://www.cometian.com/index.php/user/details/155)，按紧迫程度整理出自己需要解决的问题。
 
-等i20 
-写study plan
-租房
-询问course waive
 
 ## 签证
 需要I20 和DS160。
@@ -229,12 +225,6 @@ Passport/Travel Document Number护照/旅行证件号码 指的是个人信息�
 参考：
 [DS-160表的填写流程](https://www.applysquare.com/topic-cn/IIef7XEPp/)
 
-study plan
-Be prepared to discuss your academic plans:
-Articulate why you want to attend UT Dallas
-What you plan to study
-How you plan to use your education when you return to your home country.
-Make sure you understand your academic program and how it fits your career plans.
 
 
 在面谈时携带下列材料：
@@ -248,7 +238,18 @@ Make sure you understand your academic program and how it fits your career plans
 一份详细介绍以往学术和专业经验的简历 (英语版)，其中包括投过稿的出版物完整清单。请点击此处获取简历范本。
 美国学校或项目提供的I-20签名原件（针对返签学生）。
 导师的个人简介、简历或打印网页（针对所在美国教育机构已为其指定导师的研究生）。
+check list：
+签证照片：最近六个月内拍摄的2英寸x2英寸（5.1厘米x5.1厘米）照片 [相关要求](http://www.ustraveldocs.com/cn_zh/cn-niv-photoinfo.asp)
 
+资产证明
+简历 resume curriculum vitae 
+toefl gre成绩单transcript
+study plan
+ds160 i20
+offer
+户口本 household register
+sevis缴费证明 Payment certificate
+签证预约确认页 
 
 ## 租房
 ### utd：
@@ -307,7 +308,21 @@ STUDIO 有独立厨房和浴室
 1400/mon 能看到美景，在mit内，距离学校骑车10min 走路30min 算是与local住，生活上能得到比较大的帮助。
 500左右，malden 地铁1小时
 
-在500-1000以内
+最后定在dexter park 850厅175 freeman St 包水 热 燃气
+ 175 Freeman St., #604, Brookline, MA（Massachusetts）
+离学校近是最大的优势。需要自己隔断。
+
+
+安全押金：1000 房东退还的时候需附利息。
+
+
+
+
+硬板床：
+宜家搜Slatted mattress base + 在Homedepot买木板。
+床架装起来麻烦费时。
+
+
 
 
 ## 机票
@@ -325,6 +340,36 @@ utdbighowdy.com
 
 交通
 dallas area rapid transit DART
+
+
+### BU
+[机票科普](https://mp.weixin.qq.com/s?__biz=MzIyMzQ4MTA3MA%3D%3D&mid=2247483783&idx=1&sn=7c711e9ed11929b0f2943f6abddea448&scene=45#wechat_redirect)
+
+明确自己是想要价钱的优惠还是时间的优惠。因为并不一定可以订到时间和价钱都很有性价比的机票，所以决定好自己就是要便宜机票，还是要更好的服务享受
+
+转机注意:
+- 签证问题：英语母语国家如美国、英国、加拿大、澳大利亚、新西兰必须要有签证。不出机场也不行。
+- 转机时间问题：
+    - 联程票是否是同一家航空公司
+
+    - 两个航班是否在同一航站楼
+
+    - 国内、国际转机的时间流程差别
+
+    - 需不需要入关
+
+    - 关于转机有一个 Minimum Connecting Time (MCT) 的概念，国际航空运输协会 (International Air Transport Association，IATA) 有自己的数据库，统计了航班的转机时间。航空公司的联程票都是符合 MCT 要求的，因此可以直接购买联程票，或者在买分段票的时候，通过查看其他联程机票的转机时间判断自己转机时间是否足够。
+
+- 长时间过夜：有的时候转机时间非常长的话可能需要过夜，需要确认机场能否过夜，如果不能过夜必须出机场还得考虑签证问题。
+
+- 机票延误：如果是联程票，由于航空公司的愿意造成的延误，航空公司会免费进行签转。如果下一班 available flight 需要过夜，有些航空公司也会免费处理你的住宿问题及签证手续（如果需要的话）。
+
+退票改签
+对于所有的机票，都是可以退票的。任何机票在购买日起一年内都是有效的，可以进行退款。即使无法退票款，机建燃油和建设税都是可以退票的。如果通过第三方代理购买的票显示不能退改，那就是被代理坑了，换一家店铺购买。建议尽量找航空公司直销，以及，改签直拨航空公司电话，解释是别人帮你买的票，一般都可以解决。
+注意：对于特价票，也就是低舱位的票，在购买之前的协议里都是写清楚退票仅退燃油机建费用的，因此购买前考虑清楚。
+
+
+
 
 ## 通信
 google voice
@@ -358,10 +403,76 @@ LETSTALK：www.letstalk.com
 
 
 
+## 外汇
+年度总额为每人每年等值5万美元
+超年度总额的经常项目购汇，凭有交易金额的真实性证明材料办理。
+了解如何在app上买
+
+# BU
+
+了解各项事项的截止日期。
+## 疫苗
+[广州体检](http://www.gdwbzx.com/ywpd/cjjkztj/201603/t20160324_98057.html)
+
+ 办理健康证明书体检人员需带护照或身份证原件及复印件一份、免冠大一吋彩色近照三张。如需签发国外体检和预防接种表格者，前来体检和预防接种时应将表格一并带来。 
+
+对经批准出国留学1年以上的中国公民须凭护照、有效签证和境外学校出具的录取通知书等证明文件实施免费传染病监测体检
+
+本中心只在中心总部办理中国国内公民出入境体检与预防接种业务，珠江新城赴美移民体检中心一律不予办理。
+
+  一般检查项目（身高、体重、血压、脉搏、体温筛查）、内科、外科、五官科、胸部X线检查、心电图、超声检查和实验室检查项目（艾滋病检测、梅毒检测、乙型肝炎表面抗原、丙型肝炎抗体、肝功能（ALT或GPT）、血型、血常规）
+  
 
 
+## 学费
+[官网](http://www.bu.edu/studentaccountingservices/your-bill/payment-options/?utm_source=social&utm_medium=wechat&utm_campaign=prbumain#ipay)
+9月17日之前，按学期付款。逾期要收滞纳金。
 
-## 物质准备
-大旅行箱
-备用眼镜
-药物
+TUITION			26,408.00	
+STUDENT SERVICES FEE			166.00	
+HEALTH & WELLNESS FEE				212.00	
+
+缴费方式：
+通过美国银行账户进行转账
+邮寄支票
+网上平台firewire支付
+    $27000 ￥187,846
+    按汇率算 27000*6.842=184,755
+
+医疗保险
+9月20前可以waive 在moeny选项卡操作
+[替代品](https://mp.weixin.qq.com/s/tmjx-qf_z51yFeWUVu3AMA)
+
+
+[bu指引](https://www.bu.edu/shs/files/2017/06/bu-decision-guide.pdf)：
+国际生waive 条件：enrolled in a government-sponsored plan or an ACA-compliant plan based in the US
+
+[医疗保险术语](http://www.transparentmedicalcare.org/cn/%E7%BE%8E%E5%9B%BD%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E5%9F%BA%E6%9C%AC%E6%9C%AF%E8%AF%AD/)
+
+[Aetna network](http://www.aetna.com/dse/search?site_id=studenthealth)
+health center 可免除学生的自付额和免赔额
+
+选课
+
+体育：
+AQ100-399 = Aquatics  
+DA100-499 = Dance  
+ER100-499 = Emergency Response  
+FT100-399 = Fitness  
+GS100-399 = General Sports  
+HE100-299 = Health Education  
+MA100-299 = Martial Arts  
+MB100-299 = Mind/Body  
+NT100-199 = Nutrition  
+OE100-299 = Outdoor Education  
+PE100-399 = Physical Education  
+SK100-399 = Skating  
+WF100-299 = Waterfront  
+
+[Boating Swim Test](https://www.bu.edu/fitrec/files/2018/03/Camp-Terrier-Web2.pdf)
+Jump or dive into the water and swim 3 body lengths underwater
+Continue swimming 100 yards (4 lengths of the pool)
+demonstrating rhythmic breathing (front crawl or breast stroke)
+Tread water for 2 minutes
+Float on stomach for 1 minute without kicking(turning head to breathe)
+
