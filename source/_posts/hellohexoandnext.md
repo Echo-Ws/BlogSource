@@ -31,6 +31,18 @@ categories: 杂记
 <del> [blog版本控制](https://formulahendry.github.io/2016/12/04/hexo-ci/)</del>
 该文yml有误，没有升级node，造成hexo无法安装。在没找到下文前，想过通过脚本实现把blog更新且部署网页。
 3. [使用AppVeyor持续集成你的Hexo博客](https://yangshunjie.com/Use-Appveyor-to-continuously-integrate-your-Hexo-blog.html)     !
+---
+2018-9-18 update：
+换新电脑后才发现当初没有把具体过程记录下来是很愚蠢的。
+等于又要重新找一遍当初看过的资料。时间精力重复消耗。
+最好记录下来做了些什么，迁移到新环境就轻松点。
+
+对每一个hexo所在的文件夹都需要装hexo和server：
+npm install hexo --save
+npm install hexo-server --save
+
+启动服务器：
+hexo server
 
 ---
 # 待做

@@ -1,5 +1,5 @@
 ---
-title: 超极本比较
+title: Laptop chooice
 date: 2018-07-04 07:58:14
 tags:
 
@@ -8,7 +8,7 @@ categories:
 
 ---
 
-New equipment
+Choose a new equipment for graduate life.
 <!--more-->
 
 # 需求
@@ -20,11 +20,11 @@ New equipment
 # 候选
 ## Mac book pro
 软件兼容性
-18年目前没有新款
-但是由于统一的硬件使得配置简易，没有繁复的驱动问题。
+
+由于统一的硬件使得配置简易，没有繁复的驱动问题。
 统一的包管理，类似Ubuntu的环境，安装管理简易。
 
-等18款升级cpu。
+
 
 关于电池介绍
 [Practical Tips For Taking Care of Your Mac's Battery](https://computers.tutsplus.com/tutorials/practical-tips-for-taking-care-of-your-macs-battery--mac-45367)
@@ -33,9 +33,7 @@ New equipment
 
 高压适配器可以给低压的电脑充电，即向下兼容。电压只是相当于流速，影响的是充电速度。
 
-大内存：
-    开虚拟机
-    修图
+mac os 使用内存的策略是直到内存不够才关闭软件，使用大内存允许你一直挂着程序，切换更加迅速。且可以开虚拟机，运行Windows的软件。 
 
 港版
     HK$15,888
@@ -67,3 +65,21 @@ mbp全雷霆3过于超前，一个usb-a还是实用不少，毕竟目前手头�
 比t480 轻，没有双盘位。
 
 其余windows下的超极本：DELL的XPS，lg Gram 都值得考虑。
+
+
+---
+MBP 2018 with touch bar 512G +16G RAM
+
+# 使用感受：
+全系统统一快捷键，记一套即可高效在各种软件中使用，提高工作效率。
+touch pad 的手势可以完全抛弃鼠标，间接让我放弃了外接键盘。真正做到了一台laptop的任务。
+windows下高自由度的软件导致各家各有一套快捷建，需要消耗大量精力。以及触控板的不给力使得不带一个鼠标就无法正常工作。
+遗憾的是 mac上的键盘布局需要一定的时间来适应，无法迁移windows下积累的习惯。
+
+# bug
+使用第一周 死机两次。检查log，一次由于自带的preview引起，一次是由于快帆vpn引起。
+touch bar 两次黑屏无反应。一次合盖后重新唤醒，一次重启解决。
+
+使用第三周，大概一周没有关机，出现快捷键的冲突，cheatsheet 会在切软件后出现，并且导致command q 失效。重启解决。
+
+    
