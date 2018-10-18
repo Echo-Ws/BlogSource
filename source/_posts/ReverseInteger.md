@@ -1,8 +1,8 @@
 ---
 title: ReverseInteger
 date: 2018-10-01 17:12:05
-tags:
-categories:
+tags: easy
+categories: [coding,leetcode]
 ---
 # Description
 Given a 32-bit signed integer, reverse digits of an integer.
@@ -74,7 +74,7 @@ def reverse(self, x):
 
 ```
 
-# best
+# Best
 ```python 3
 # 48 ms
 def reverse(self, x):
@@ -86,6 +86,6 @@ def reverse(self, x):
         return x if x < 2147483648 and x >= -2147483648 else 0
 ```
 
-# analyse
+# Analyse
 对 string 与int 之间的转换不熟悉，对切片操作不熟悉，导致用了大量的计算来造轮子。
 时间上用计算好的数据来替代会节约运行时间。

@@ -88,6 +88,14 @@
   {% include '_third-party/mathjax.swig' %}
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
+
+
+<!-- background -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>;
+  <script>
+  $("body").backstretch("https://www.airdo.jp/information/white_adventure/images/top/article002-mainvis-bg.jpg");
+  </script>
+
 </body>
 </html>
 

@@ -1,8 +1,8 @@
 ---
 title: TwoSum
 date: 2018-09-18 00:35:31
-tags:
-categories: leetcode, coding
+tags: easy
+categories: [coding,leetcode]
 ---
 # description
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.

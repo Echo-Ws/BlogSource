@@ -1,5 +1,5 @@
 ---
-title: jupyter
+title: Jupyter
 date: 2018-10-01 15:04:48
 tags: tips
 categories: coding
@@ -16,6 +16,7 @@ set_trace()
  n :execute and go to the next line
  c :continue the program
  h: overview of the commands
+ s: step in the functionn.
 
 
  [del、remove、pop difference](https://blog.csdn.net/deqiangxiaozi/article/details/75808863)
@@ -23,3 +24,4 @@ set_trace()
  cmp do not include in python3
  (a, b)[x>y]
  if x>y is true then return b,else return a.
+ 

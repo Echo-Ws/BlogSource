@@ -3,36 +3,149 @@
 .content {
             border-radius: 20px;
             padding: 30px 60px 30px 60px;
-            background:rgba(255, 255, 255, 0.5) none repeat scroll !important;
+            background:rgba(255, 255, 255, 0.95) none repeat scroll !important;
          }
 
 .comments {
        border-radius: 10px;
-       background:rgba(255, 255, 255, 0.5) none repeat scroll !important;
+       background:rgba(255, 255, 255, 0.6) none repeat scroll !important;
     }
 
 #post {
-        background:rgba(255, 255, 255, 0.5) none repeat scroll !important;
+        background:rgba(255, 255, 255, 0.6) none repeat scroll !important;
     }
 
 
-#header {
-    background: url(/images/bg2.jpg );
-    background-size:cover;
-    background-repeat:no-repeat;
-    //background-attachment:fixed;
-    background-position:center;
-     }
+
 
 .brand {
     background:rgba(255, 255, 255, 0);
 }
 
+// 标题
 .site-title{
     line-height: 56px;
     font-size: 48px;
-    font-family: 'Lobster Two', 'Roboto Slab', "PingFang SC", "Microsoft YaHei", sans-serif;
+    font-family: 'Comic Sans MS', sans-serif;
+    color: rgb(190,220,210);
+}
+
+// 全屏设置
+// .container{
+//     height: 100%;
+//     width: 100%;
+// }
+
+// #header {
+//     background: url(https://ws1.sinaimg.cn/large/8700af19ly1fvpabr30o6j22yo1o0q7i.jpg) no-repeat center center;
+//     // background-size: cover;
+//     height: 100%;
+//     width: 100%;
+//     // background-attachment: fixed;
+    
+//      }
+
+
+#header {
+    // background-image: url(https://www.airdo.jp/information/white_adventure/images/top/article002-mainvis-bg.jpg);
+    // background-attachment: fixed;
+    // position: relative;
+    // margin-bottom: 1rem;
+    
+    // background-position: center;
+    // -webkit-background-size: cover;
+    // -moz-background-size: cover;
+    // background-size: cover;
+     }
+
+// 菜单字体
+.menu .menu-item a {
+    font-size: 16px;
+    color:rgb(255,200,180)
+}
+
+// 菜单超链接样式
+.menu .menu-item a:hover {
+    color: rgb(200, 202, 60);
+}
+
+.header-inner{
+    padding: 150px 0 150px;
+    }
+
+// 站点子标题
+.site-subtitle{
+    color:rgb(110,210,210)
+    font-weight: bold;
+    ont-size: 20px;
+    }
+
+// 侧栏
+.sidebar {
+    box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    // background-color: rgba(0, 0, 0, 0.75);
+    background-image: url(https://www.airdo.jp/information/white_adventure/images/top/article002-mainvis-bg.jpg)
+    background-attachment: fixed;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    /* CSS3 standard */
+    opacity:0.9;
+}
+.sidebar-inner {
+    margin-top: 30px;
+}
+// 侧栏站点概况行高
+.site-overview {
+    line-height: 1.3;
+}
+
+// 侧栏站点描述
+.site-description {
+    
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 15px;
+    
+    color: rgb(243, 112, 85);
+}
+
+// 侧栏站点文章、分类、标签
+.site-state {
+    line-height: 1.3;
+    margin-left: 12px;
+}
+.site-state-item {
+    padding: 0px 15px;
+    border-left: 1.5px solid rgb(161, 102, 171);
+}
+
+// 自定义的侧栏时间样式
+#days {
+    display: block;
+    color: rgb(7, 179, 155);
+    font-size: 13px;
+    margin-top: 15px;
+}
+
+.posts-expand .post-meta{
+    color:black;
+    
+    }
+
+.category-all-page .category-list-count {
+    color: rgb(10,110,110);
+}
+
+.posts-collapse .collection-title small {
+    color: rgb(70,70,70);
+
 }
 
 
+.posts-expand .post-eof{
+    height:1px;border:none;border-top:1px solid #000;    
+    width:30%
 
+    }
