@@ -184,7 +184,7 @@ Last Day for Undergraduate Students to Change Standard Courses from Credit to Au
 选择哪所学校，本质上是在问我：真的下定决心放弃科研了吗？放弃攀向人类的智力巅峰了吗？
 
 其次，在UTD也有优秀的校友资源，还能提供丰富的实习机会。
-UTD和BU的差别只剩下，BU在国内，那些看重学历的二流公司有优势。以及在唬外行人上的优势。也就是高价买面子。
+UTD和BU的差别只剩下，BU在国内相对出名。也就是高价买面子。
 
 校友圈
 boston 竞争大 和名校的人竞争。

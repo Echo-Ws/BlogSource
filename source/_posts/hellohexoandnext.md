@@ -47,6 +47,17 @@ categories: 杂记
 等于又要重新找一遍当初看过的资料。时间精力重复消耗。
 最好记录下来做了些什么，迁移到新环境就轻松点。
 
+hexo for mac
+安装 nvm
+ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+
+Once nvm is installed, restart the terminal and run the following command to install Node.js:
+
+$ nvm install stable
+
+Once all the requirements are installed, you can install Hexo with npm:
+npm install -g hexo-cli
+
 对每一个hexo所在的文件夹都需要装hexo和server：
 npm install hexo --save
 npm install hexo-server --save
@@ -57,7 +68,7 @@ hexo server
 ---
 # 待做
 - [ ]  [博客提交百度谷歌收录](https://blog.csdn.net/hosea1008/article/details/53384382) [seo](http://www.ehcoo.com/seo.html)
-- [ ] 七牛图床
+- [-] 七牛图床
 - [ ] 标签页变化js
 - [ ] 建站日志
 - [ ] 中英文版本切换
